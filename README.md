@@ -1,1 +1,2 @@
 # DSML-PROJECT
+The dataset contains detailed sales transaction records including attributes such as order date, product category, region, sales, profit, and customer details. It serves as a rich resource for performing data preprocessing, exploratory data analysis (EDA), visualizations, and generating actionable business insights. In this project customer purchase prediction and Recommentation system of E Commerce.
